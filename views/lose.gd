@@ -11,7 +11,6 @@ var save = false;
 func _ready():
 	$Home.connect("button_down", self, "_on_home");
 	$Restart.connect("button_up", self, "_on_restart");
-	$Save.connect("button_down", self, "_on_save");
 	$Stats.set_stats(stats);
 	$Value.text = str(score);
 	

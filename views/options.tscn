@@ -19,23 +19,23 @@ margin_right = 360.0
 margin_bottom = 140.0
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 1 )
-text = "Options"
+text = "Настройки"
 align = 1
 valign = 1
 
 [node name="Languages" type="OptionButton" parent="."]
-margin_left = 40.0
-margin_top = 154.0
-margin_right = 320.0
-margin_bottom = 203.0
+margin_left = 2224.0
+margin_top = 1775.0
+margin_right = 2504.0
+margin_bottom = 1824.0
 theme = ExtResource( 4 )
 align = 1
 
 [node name="Musics" type="CheckBox" parent="."]
 margin_left = 40.0
-margin_top = 232.0
+margin_top = 139.0
 margin_right = 314.0
-margin_bottom = 280.0
+margin_bottom = 187.0
 theme = ExtResource( 5 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 text = "OPTION_MUSICS"
@@ -43,9 +43,9 @@ align = 2
 
 [node name="SFX" type="CheckBox" parent="."]
 margin_left = 40.0
-margin_top = 296.0
+margin_top = 203.0
 margin_right = 312.0
-margin_bottom = 344.0
+margin_bottom = 251.0
 theme = ExtResource( 5 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 text = "OPTION_SFX"

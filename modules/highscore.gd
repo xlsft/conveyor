@@ -1,6 +1,6 @@
 extends Node2D
 
-var url = ''
+var url = 'https://highscore.bullshit.xlsoftware.ru'
 var http = HTTPRequest.new();
 
 func _init(server_url):

@@ -1,24 +1,24 @@
-,en,fr
-SAVE_NAME,Name,Nom
-SAVE_CONFIRM,Save,Sauvegarder
-SAVE_CANCEL,Cancel,Annuler
-SAVE_ERROR_NAME,Name is missing,Le nom est manquant
-SAVE_ERROR_LOADING,Can't load the leaderboard,Impossible de charger le classement
-SAVE_ERROR_SEND,Can't send your score,Impossible d'envoyer votre score
-SAVE_SUCCESS_SEND,Score send !,Score envoyé !
-RANK_TITLE,Rank,Rang
-LEADERBOARD_GLOBAL,Global,Général
-LEADERBOARD_ME,My Scores,Mes scores
-LEADERBOARD_TITLE,Leaderboard,Classement
-LEADERBOARD_TOP,TOP 50,TOP 50
-HOME_PLAY,Play,Jouer
-HOME_INFO,Information,Information
-HOME_LEADERBOARD,Leaderboard,Classement
-HOME_OPTIONS,Options,Options
-HOME_STATISTICS,Statistics,Statistiques
-GLOBAL_SCORE,Score,Score
-LOSE_REPLAY,Replay,Rejouer
-LOSE_HOME,Home,Accueil
-OPTION_MUSICS,Music,Musique
-OPTION_SFX,Game sound,Son du jeu
-STATS_GAMES,Games played,Parties jouées
+,en,frt,fr
+SAVE_NAME,Name,Nom,Имя
+SAVE_CONFIRM,Save,Sauvegarder,Сохранить
+SAVE_CANCEL,Cancel,Annuler,Отмена
+SAVE_ERROR_NAME,Name is missing,Le nom est manquant,Имя отсутствует
+SAVE_ERROR_LOADING,Can't load the leaderboard,Impossible de charger le classement,Не удается загрузить таблицу лидеров
+SAVE_ERROR_SEND,Can't send your score,Impossible d'envoyer votre score,Не удается отправить ваш результат
+SAVE_SUCCESS_SEND,Score send !,Score envoyé !,Результат отправлен!
+RANK_TITLE,Rank,Rang,Ранг
+LEADERBOARD_GLOBAL,Global,Général,Общий
+LEADERBOARD_ME,My Scores,Mes scores,Мои результаты
+LEADERBOARD_TITLE,Leaderboard,Classement,Таблица лидеров
+LEADERBOARD_TOP,TOP 50,TOP 50,ТОП 50
+HOME_PLAY,Play,Jouer,Играть
+HOME_INFO,Information,Information,Информация
+HOME_LEADERBOARD,Leaderboard,Classement,Таблица лидеров
+HOME_OPTIONS,Options,Options,Параметры
+HOME_STATISTICS,Statistics,Statistiques,Статистика
+GLOBAL_SCORE,Score,Score,Результат
+LOSE_REPLAY,Replay,Rejouer,Повторить
+LOSE_HOME,Home,Accueil,Главное меню
+OPTION_MUSICS,Music,Musique,Музыка
+OPTION_SFX,Game sound,Son du jeu,Звук игры
+STATS_GAMES,Games played,Parties jouées,Сыгранных партий
